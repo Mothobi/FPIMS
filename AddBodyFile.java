@@ -22,7 +22,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Sandile
+ * @author Mothobi
  */
 public class AddBodyFile extends HttpServlet {
 
